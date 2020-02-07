@@ -1,0 +1,3 @@
+@font-face{
+    src: url(../Fonts/Sacramento/Sacramento-Regular.ttf);
+    font-family: "Sacramento";
